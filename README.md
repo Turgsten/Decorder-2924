@@ -28,7 +28,7 @@
 
   ===========================================================================  
 
-  **For English auditor:**  
+  **For My English auditor:**  
 Game title: Decorder 2924  
 Game Language: English  
 Players: 1  
