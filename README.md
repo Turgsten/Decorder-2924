@@ -13,10 +13,10 @@
 
   
 特別感謝:  
-角色設計--   
+角色設計:   
 瑞克奇  (Twitter: @Rikkche)  
 
-測試人員-- 
+測試人員:   
 瑞克奇   
 培根      
 
@@ -37,6 +37,6 @@ Speical thanks:
 Character design:   
 Rikkche  (Twitter: @Rikkche)  
   
-Game tester: 
+Game tester:   
 Rikkche    
 Bacon    
