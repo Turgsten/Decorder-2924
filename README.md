@@ -11,7 +11,7 @@
 遊戲目標: 生存5分鐘、計時器一到會有無敵怪將玩家殺死來結束遊戲。  
 ※經驗值有刻意提高使玩家能輕易的拿取所有升級。  
 
-  **使用來源**
+  **使用來源**  
 代碼參考:  
 【Branno from Youtube】Make a Vampire Survivors Clone in Godot 4  
 
