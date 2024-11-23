@@ -31,6 +31,7 @@ Controls: Keyboard (W, A, S, D), Mouse
 Game Duration: 5 Minutes  
 Description: A short game inspired by Vampire Survivors.  
 Use W, A, S, D to move. Use Mouse to select upgrade options.  
+Objective: Survive for 5 minutes, when the timer ends, an invincible monster will kill the player to end the game.  
 ※The experience was increased that player can take all the upgrades easily.  
 
 Speical thanks:  
