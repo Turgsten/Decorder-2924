@@ -1,6 +1,6 @@
 # Decorder-2924
 **給我的中文圈玩家:**
-/n遊戲名稱 : Decorder 2924
+\n遊戲名稱 : Decorder 2924
 遊戲語言: 英文
 遊戲人數: 1人
 平台: PC (Windows)
