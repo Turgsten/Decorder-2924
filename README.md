@@ -13,8 +13,12 @@
 
   
 特別感謝:  
-角色設計-- 瑞克奇  (Twitter: @Rikkche)  
-測試人員-- 瑞克奇、培根  
+角色設計--   
+瑞克奇  (Twitter: @Rikkche)  
+
+測試人員-- 
+瑞克奇   
+培根      
 
   ===========================================================================  
 
@@ -30,5 +34,9 @@ Use W, A, S, D to move. Use Mouse to select upgrade options.
 ※The experience was increased that player can take all the upgrades easily.  
 
 Speical thanks:  
-Character design: Rikkche  (Twitter: @Rikkche)  
-Game tester: Rikkche , Bacon  
+Character design:   
+Rikkche  (Twitter: @Rikkche)  
+  
+Game tester: 
+Rikkche    
+Bacon    
