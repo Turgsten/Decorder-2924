@@ -11,8 +11,14 @@
 遊戲目標: 生存5分鐘、計時器一到會有無敵怪將玩家殺死來結束遊戲。  
 ※經驗值有刻意提高使玩家能輕易的拿取所有升級。  
 
+  **使用來源**
+代碼參考:  
+【Branno from Youtube】Make a Vampire Survivors Clone in Godot 4  
+
+使用音樂:  
+【Phoqus from Youtube】 Tower Defense Simulator OST - Containment Breach  
   
-特別感謝:  
+  **特別感謝:**  
 角色設計:   
 瑞克奇  (Twitter: @Rikkche)  
 
@@ -34,7 +40,15 @@ Use W, A, S, D to move. Use Mouse to select upgrade options.
 Objective: Survive for 5 minutes, when the timer ends, an invincible monster will kill the player to end the game.  
 ※The experience was increased that player can take all the upgrades easily.  
 
-Speical thanks:  
+  **Sources:**   
+Code references:  
+【Branno from Youtube】Make a Vampire Survivors Clone in Godot 4  
+
+Music:  
+【Phoqus from Youtube】 Tower Defense Simulator OST - Containment Breach  
+  
+
+  **Speical thanks:**  
 Character design:   
 Rikkche  (Twitter: @Rikkche)  
   
